@@ -1,6 +1,2 @@
 # hello-world
-
-Hello!
-
-Malek here, I like programming and have been programming for over 5 years.
-The first language I ever learned is Visual Basic.
+Malek Gazem / 991504877 / malekga / DAVIS FOR SYST24444 Exercise 3
